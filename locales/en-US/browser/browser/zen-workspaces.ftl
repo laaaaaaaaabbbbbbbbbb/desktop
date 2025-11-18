@@ -5,7 +5,7 @@
 zen-panel-ui-workspaces-text = Spaces
 
 zen-panel-ui-workspaces-create =
-    .label = Create Space
+    .label = Create Ding
 
 zen-panel-ui-folder-create =
     .label = Create Folder
